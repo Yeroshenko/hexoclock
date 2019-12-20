@@ -21,7 +21,7 @@ body {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
-          flex-direction: column; 
+          flex-direction: column;
 }
 
 #clock {
@@ -39,7 +39,9 @@ body {
   bottom: 2vh;
   left: 50%;
   -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  transform: translateX(-50%);
   font-size: 1.5vh;
+  color: #FFFFFF;
+  text-decoration: none;
   opacity: .1;
 }
