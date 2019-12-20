@@ -1,5 +1,3 @@
 # Hexoclock
-========
-
 
 ![](screenshot.png)
